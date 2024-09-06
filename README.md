@@ -59,12 +59,12 @@
 <img src="https://github.com/tuladhar07/Pustak-Hub-minor-project-/blob/main/minorprojectfinal-master/Screenshots/homepage.png" alt="Home Page" />
 
 <h3>Product Details</h3>
-<img src="URL_to_image2" alt="Product Details" />
+<img src="https://github.com/tuladhar07/Pustak-Hub-minor-project-/blob/main/minorprojectfinal-master/Screenshots/BookDetails.png" alt="Product Details" />
 
-<h3>Cart Page</h3>
-<img src="URL_to_image3" alt="Cart Page" />
+<h3>Login Page</h3>
+<img src="https://github.com/tuladhar07/Pustak-Hub-minor-project-/blob/main/minorprojectfinal-master/Screenshots/LoginPage.png" alt="Login Page" />
 
-<h3>Checkout</h3>
-<img src="URL_to_image4" alt="Checkout" />
+<h3>Profile</h3>
+<img src="https://github.com/tuladhar07/Pustak-Hub-minor-project-/blob/main/minorprojectfinal-master/Screenshots/Profile.png" alt="Profile" />
 
 
