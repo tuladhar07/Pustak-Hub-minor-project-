@@ -41,10 +41,7 @@
   <li><strong>JWT</strong>: JSON Web Tokens for user authentication.</li>
 </ul>
 
-<h3>Payment Integration</h3>
-<ul>
-  <li><strong>Stripe/PayPal</strong>: Used for secure online payment processing.</li>
-</ul>
+
 
 <h2>Installation</h2>
 
@@ -59,7 +56,7 @@
 <h2>Screenshots</h2>
 
 <h3>Home Page</h3>
-<img src="URL_to_image1" alt="Home Page" />
+<img src="https://github.com/tuladhar07/Pustak-Hub-minor-project-/blob/main/minorprojectfinal-master/Screenshots/homepage.png" alt="Home Page" />
 
 <h3>Product Details</h3>
 <img src="URL_to_image2" alt="Product Details" />
